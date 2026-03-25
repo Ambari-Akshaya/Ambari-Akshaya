@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ambari Akshaya</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ambari Akshaya</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambari-akshaya&label=Profile%20views&color=0e75b6&style=flat" alt="ambari-akshaya" /> </p>
@@ -23,4 +23,81 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambari-akshaya&show_icons=true&locale=en" alt="ambari-akshaya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambari-akshaya&" alt="ambari-akshaya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambari-akshaya&" alt="ambari-akshaya" /></p> -->
+
+<h1 align="center">Hi 👋, I'm Ambari Akshaya</h1>
+<h3 align="center">💻 Software Developer | Python Enthusiast | Aspiring Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ambari-akshaya&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ambari-akshaya&theme=flat" alt="trophies" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 Passionate **Software Developer**  
+- 🌱 Currently learning **Django & Backend Development**  
+- 💡 Skilled in **Python, HTML, CSS, JavaScript, SQL**  
+- 🚀 Goal: Become a **Full Stack Developer**  
+- 🔍 Interested in **Web Development & Problem Solving**  
+
+---
+
+### 📫 Contact Me
+- 📧 Email: **akshayapatel1247@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/akshaya-ambari" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ambari-akshaya&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ambari-akshaya&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ambari-akshaya&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 Achievements
+- 📚 Continuously improving coding and problem-solving skills  
+
+---
+
+### 🎯 Career Objective
+To secure an entry-level software developer role where I can apply my skills, contribute to meaningful projects, and grow as a full stack developer.
+
+---
+
+<p align="center">✨ Thank you for visiting my profile ✨</p>
