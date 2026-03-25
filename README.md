@@ -51,6 +51,7 @@
 
 ### 📫 Contact Me
 - 📧 Email: **akshayapatel1247@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/akshaya-ambari 
 
 ---
 
